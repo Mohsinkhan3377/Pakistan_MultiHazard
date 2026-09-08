@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+requests
+matplotlib
+scikit-learn
+xgboost
+joblib
+gtts
+networkx
